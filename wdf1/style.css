@@ -1,0 +1,32 @@
+div{
+    height: 300px;
+    width: 400px;
+    border-color: black;
+    border-style: double;
+    border-width: 5px;
+    border-radius:10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+}
+h1{
+    border-color: black;
+    border-style:double;
+    border-width: 10px;
+    border-left-color: yellow;
+    border-right-color: red;
+    border-top-color: green;
+    border-bottom-color: blue;
+    border-left-style: dotted;
+    border-right-style: groove;
+}
+button{
+    border-color: black;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
